@@ -651,15 +651,17 @@
                 
                 <div class="col-lg-6">
                 
-                    <h3 style="color:white; font-size:29px; line-height:42px;">Universial Tate Time  ($UTT)</h3>
+                    <h3 style="color:white; font-size:29px; line-height:42px;">universal Tate Time  ($TIME)</h3>
                     <ul>
+                    <p style="text-align: left; color:white; font-size:18px;">Ticker: ($TIME)</p>
+
                     <p style="text-align: left; color:white; font-size:18px;">Don't Be a jeet Last Chance!</p>
 
-                  <p style="text-align: left; color:white; font-size:18px;">We are going to a billion marketcap and we will show you why $UTT should be number 1 coin on Solana.</p>
+                  <p style="text-align: left; color:white; font-size:18px;">We are going to a billion marketcap and we will show you why $TIME should be number 1 coin on Solana.</p>
                   <p style="text-align: left; color:white; font-size:18px;">Fuck The JEETS, ALPHAS ONLY</p>
 
 
-                  <a class="btn-solid-lg" style="color:blue; background-color:#0F1647" href="https://x.com/trump0047">Twitter</a>
+                  <a class="btn-solid-lg" style="color:blue; background-color:#0F1647" href="https://x.com/Unitatetime">Twitter</a>
                   <a class="btn-solid-lg secondary" style="color:blue; background-color:white" href="https://t.me/trump47thcoin">Telegram</a>
 
                     </ul>
@@ -740,9 +742,9 @@
                     <h3 style="color:white;">Goals</h3>
                     <ul>
                         <p style="text-align: left; color:white;">We Will pay for Dex, Trending, Advertisements </p>
-                        <p style="text-align: left; color:white;">Andrew Tate Will Mention US, Take Your Hand OFF YOUR DICK AND BUY $UTT</p>
+                        <p style="text-align: left; color:white;">Andrew Tate Will Mention US, Take Your Hand OFF YOUR DICK AND BUY $TIME</p>
                         <p style="text-align: left; color:white;">We Are Going To The MOON</p>
-                        <p style="text-align: left; color:white;">We Are going To Give Tokens To TATE</p>
+                        <p style="text-align: left; color:white;">We are giving tokens to TATE</p>
 
                         <p style="text-align: left; color:white;         width: 300px;
             height: 150px;

@@ -8,7 +8,7 @@
 
 
     <!-- Webpage Title -->
-    <title>Universal TATE TIME</title>
+    <title>Universal TATE TIME </title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
@@ -42,11 +42,11 @@
                 <ul class="navbar-nav ml-auto">
                    
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="https://twitter.com/trump0047"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
+                        <a class="nav-link page-scroll" href="https://x.com/Unitatetime"> <img src="twitter.png" height="50px" width="50px" alt=""> </a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link page-scroll" href="https://discord.gg/R3qtPKeCmJ"> <img src="5866.png" height="50px" width="50px" alt=""> </a>
-                    </li>
+                    </li> -->
               
                 </ul>
                
