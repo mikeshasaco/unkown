@@ -240,7 +240,7 @@
   width: 320px;
   height: 446px;
   /* background-color: #FFD700; */
-  background-size: 250%;
+  background-size: 101%;
   background-repeat: no-repeat;
   background-position: center;
   border-radius: 5% / 3.5%;
@@ -307,7 +307,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("time.jpg");
+  background-image: url("icewatch.jpg");
 }
 .cardone.mew {
   --color1: #eb8bff;
