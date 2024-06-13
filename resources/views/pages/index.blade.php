@@ -307,7 +307,7 @@
 .cardone.cardverse {
   --color1: #ffdf35;
   --color2: #65f0ff;
-  background-image: url("andrewtate.png");
+  background-image: url("time.jpg");
 }
 .cardone.mew {
   --color1: #eb8bff;
