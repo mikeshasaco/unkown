@@ -662,7 +662,7 @@
 
 
                   <a class="btn-solid-lg" style="color:blue; background-color:#0F1647" href="https://x.com/Unitatetime">Twitter</a>
-                  <a class="btn-solid-lg secondary" style="color:blue; background-color:white" href="https://t.me/trump47thcoin">Telegram</a>
+                  <!-- <a class="btn-solid-lg secondary" style="color:blue; background-color:white" href="https://t.me/trump47thcoin">Telegram</a> -->
 
                     </ul>
 
